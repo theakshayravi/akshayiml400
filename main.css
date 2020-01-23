@@ -1,4 +1,4 @@
-#homepage {
+#subpages {
   color: black;
   font-size:25px;
   font-style: normal;
@@ -8,7 +8,7 @@
   border-radius: 3px;
   text-align:center;
 }
-#homepage:hover {
+#subpages:hover {
   background-color: blue;
   color: white;
 }
